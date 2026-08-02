@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kevin
 
-<!--
-**Kevinci/Kevinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Developer passionate about open source, TypeScript and developer tooling.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 fast-pdf — A fast, dependency-free PDF toolkit
+- 📦 table-minimap — Lightweight table visualization utilities
+- 🔧 http-query-client — HTTP client interoperability tooling
+
+## Tech Stack
+
+- TypeScript
+- Vue / Nuxt
+- React / Next.js
+- Rust
+- Python
+
+## Open Source
+
+I build tools that make developers more productive.
+
+## Contact
+
+- GitHub: @Kevinci
