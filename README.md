@@ -5,6 +5,7 @@ Senior Frontend Developer passionate about open source, TypeScript and developer
 ## Projects
 
 - 🚀 fast-pdf — A fast, dependency-free PDF toolkit
+- ⚠️ ts-profanity-filter - A Bad Word Filter with many features
 - 📦 table-minimap — Lightweight table visualization utilities
 - 🔧 http-query-client — HTTP client interoperability tooling
 
