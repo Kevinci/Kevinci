@@ -195,7 +195,7 @@ Explore the full collection in my [GitHub repositories](https://github.com/Kevin
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kevinci&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Profile%20Views-GitHub-58A6FF?style=flat-square&logo=github" alt="GitHub Profile"/>
 
 </div>
 
