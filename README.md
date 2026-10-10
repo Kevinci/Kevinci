@@ -1,6 +1,14 @@
  <div align="center">
 
-# Kevin Imig · `@Kevinci`
+
+<p align="center">
+  <img
+    src="assets/header-80s.png"
+    alt="Kevin Imig – Frontend, Full-Stack und Open Source"
+    width="100%"
+  />
+</p>
+
 
 ### Senior Frontend Developer · UI/UX · Full-Stack Engineering
 
