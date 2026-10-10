@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="header-80s.png"
+    src="PNG-Bild.png"
     alt="Kevin Imig – Frontend, Full-Stack und Open Source"
     width="100%"
   />
